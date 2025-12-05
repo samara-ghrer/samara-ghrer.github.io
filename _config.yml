@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Samara Ghrer"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student at Inria (Morpheo team) working on learning growth models for 3D plants"
+  bio              : "Ph.D. Student in computer vision at Inria (Morpheo team)"
   location         : "Grenoble"
   employer         : "Centre Inria de l'Université Grenoble Alpes"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "samara.ghrer@inria.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
