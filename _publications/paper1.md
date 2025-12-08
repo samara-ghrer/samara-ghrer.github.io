@@ -2,7 +2,7 @@
 title: "Learning  to Infer Parameterized Representations of Plants from 3D Scans"
 collection: publications
 category: manuscripts
-permalink: /publication/Learning  to Infer Parameterized Representations of Plants from 3D Scans
+permalink: /publication/paper1.md
 excerpt: 'This paper is about learning a parametric representation of 3D plants that encodes the plant's structure and geometry and allows for multiple downstream tasks.'
 date: 2025
 venue: 'ArXiv'
