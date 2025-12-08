@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/paper1
 excerpt: "This paper is about learning a parametric representation of 3D plants from scans. Th learned representation encodes the plant's structure and geometry and allows for multiple downstream tasks."
-date: 2025
+date: 2025-05-28
 venue: "ArXiv"
 paperurl: "https://arxiv.org/abs/2505.22337"
 ---
