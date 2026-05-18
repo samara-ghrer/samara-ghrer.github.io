@@ -3,7 +3,7 @@ title: "Learning to Infer Parameterized Representations of Plants from 3D Scans"
 collection: publications
 category: manuscripts
 excerpt: "This paper is about learning a parametric representation of 3D plants from scans. The learned representation encodes the plant's structure and geometry and allows for multiple downstream tasks."
-date: 2025-05-28
-venue: "CVPR 2026 - IEEE International Conference on Computer Vision and Pattern Recognition, 2026, Denver, United States."
+date: 2026
+venue: "CVPR - IEEE International Conference on Computer Vision and Pattern Recognition, 2026, Denver, United States."
 paperurl: "https://arxiv.org/abs/2505.22337"
 ---
