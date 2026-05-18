@@ -4,6 +4,6 @@ collection: publications
 category: manuscripts
 excerpt: "This paper is about learning a parametric representation of 3D plants from scans. The learned representation encodes the plant's structure and geometry and allows for multiple downstream tasks."
 date: 2025-05-28
-venue: "ArXiv"
+venue: "CVPR 2026 - IEEE International Conference on Computer Vision and Pattern Recognition, 2026, Denver, United States."
 paperurl: "https://arxiv.org/abs/2505.22337"
 ---
